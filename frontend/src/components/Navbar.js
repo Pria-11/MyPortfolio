@@ -193,10 +193,10 @@ const Navbar = ({ themeMode, toggleTheme }) => {
     setHireText('Opening Mail...');
     setTimeout(() => setHireText('Hire Me'), 2000);
   };
-  const mailto = `mailto:priyayadav06092002@gmail.com?subject=${encodeURIComponent(
+  const mailto = `mailto:anurudhs567@gmail.com?subject=${encodeURIComponent(
     'Hiring You as Full-Stack Engineer'
   )}&body=${encodeURIComponent(
-    'Hello Priya,\n\nI would like to discuss hiring you. Please let me know your availability.\n\nBest regards,\n[Your Name]'
+    'Hello Anurudha,\n\nI would like to discuss hiring you. Please let me know your availability.\n\nBest regards,\n[Your Name]'
   )}`;
 
   const links = [
