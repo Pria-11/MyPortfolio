@@ -248,7 +248,7 @@ const Home = () => {
     };
   }, []);
 
-  const mailto = `mailto:priyayadav06092002@gmail.com?subject=Hiring You as Full-Stack Developer&body=Hi Priya,%0A%0ALet's connect!`;
+  const mailto = `mailto:priyayadav06092002@gmail.com?subject=Hiring You as Full-Stack Engineer&body=Hi Priya,%0A%0ALet's connect!`;
 
   return (
     <Section>
