@@ -66,10 +66,10 @@ const educations = [
     details: 'Graduated with 8.1 CGPA'
   },
   {
-    school: "The St. Xavier's School",
+    school: "Rajasthan Vidya Mandir",
     degree: 'Higher Secondary',
     period: 'Jun 2019 – July 2021',
-    details: 'Science stream, passed out with 91% in ISC'
+    details: 'Science stream, passed out with 84.20 % in ISC'
   },
 ];
 
