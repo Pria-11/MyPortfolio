@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaGithub,  FaLinkedin } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 
 const Foot = styled.footer`
@@ -16,15 +16,15 @@ const IconLink = styled(motion.a)`
   color: ${props => props.theme.colors.text};
 `;
 const icons = [
-  { comp: FaGithub, url: 'https://github.com/anurudha07?tab=repositories' },
-  { comp: FaLinkedin, url: 'https://www.linkedin.com/in/anurudha-sarkar-3b77ab228/' },
-  { comp: FaInstagram, url: 'https://www.instagram.com/_anurudha_/' }
+  { comp: FaGithub, url: 'https://github.com/Pria-11' },
+  { comp: FaLinkedin, url: 'https://www.linkedin.com/feed/' },
+
 ];
 
 const Footer = () => (
   <Foot>
     <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
-      © {new Date().getFullYear()} @Anurudha. All rights reserved.
+      © {new Date().getFullYear()} @PriyaYadav. All rights reserved.
     </motion.p>
     <div>
       {icons.map((icon, idx) => {
