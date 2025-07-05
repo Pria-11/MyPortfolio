@@ -25,7 +25,7 @@ const About = () => {
       </Content>
       <ButtonContainer variants={contentVariants}>
         <DownloadButton
-          href="/Anurudha_Sarkar_resume.pdf"
+          href="/Priya_Yadav_resume.pdf"
           download
           variants={buttonVariants}
           whileHover={reduce ? {} : 'hover'}
