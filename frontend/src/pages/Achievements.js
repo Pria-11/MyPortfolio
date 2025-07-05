@@ -5,7 +5,7 @@ import usePrefersReducedMotion from '../hooks/usePrefersReducedMotion';
 
 const Container = styled.section`
   max-width: 800px;
-  margin: 100px auto;
+  margin: 80px auto;
   padding: 0 1rem;
 `;
 const Title = styled.h2`
@@ -53,9 +53,8 @@ const Text = styled.p`
 `;
 
 const achievements = [
-  'Awarded < Certification of Merit > by Techno India Group for the Toppers of Malda in the Board Results 2021',
   'Participated in < Smart India Hackathon > in 2024 where I led a team and presented our innovative solutions to the organizer',
-  'Ranked 2nd in Surtech < Codehub > Powered by HackerEarch in 2023'
+  'Ranked 1st in Surtech < hackerank >  in 2023'
 ];
 
 const variants = {
