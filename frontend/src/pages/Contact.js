@@ -99,7 +99,7 @@ const Contact = () => {
       return;
     }
 
-    const to = 'anurudhs567@gmail.com';
+    const to = 'priyayadav06092002@gmail.com';
     const subject = encodeURIComponent(`Contact from ${name.trim()}`);
     const body = encodeURIComponent([`Name: ${name.trim()}`, `Email: ${email.trim()}`, '', message.trim()].join('\n'));
 
