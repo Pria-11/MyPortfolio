@@ -196,7 +196,7 @@ const Navbar = ({ themeMode, toggleTheme }) => {
   const mailto = `mailto:priyayadav06092002@gmail.com?subject=${encodeURIComponent(
     'Hiring You as Full-Stack Developer'
   )}&body=${encodeURIComponent(
-    'Hello [YourName],\n\nI would like to discuss hiring you. Please let me know your availability.\n\nBest regards,\n[Your Name]'
+    'Hello Priya,\n\nI would like to discuss hiring you. Please let me know your availability.\n\nBest regards,\n[Your Name]'
   )}`;
 
   const links = [
