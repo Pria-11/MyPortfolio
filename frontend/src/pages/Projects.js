@@ -6,7 +6,7 @@ import img2 from '../images/image2.jpg';
 import img3 from '../images/image3.jpg';
 import img4 from '../images/image4.jpg';
 import img5 from '../images/image5.jpg';
-import img6 from '../images/image6.jpg';
+
 
 const Container = styled.section`
   max-width: 1000px;
@@ -84,44 +84,38 @@ const LinkButton = styled.a`
 const projectList = [
   {
     title: 'ExpenX | Your Expense Tracking Partner',
-    description: '"A mobile‑responsive personal finance dashboard featuring secure JWT‑based authentication, summary cards for balance, income, and expenses, plus full CRUD for income and expense entries with update alerts. It includes interactive Bar, Pie, and Line charts, recent‑transaction previews, Excel exports, and an intuitive sidebar for seamless navigation."',
+    description: '"A fully responsive finance dashboard with JWT‑powered authentication, real‑time summary cards for balance, income, and expenses, and complete CRUD functionality—complete with instant update alerts. It also offers interactive bar, pie, and line charts, a recent‑transactions panel, Excel data exports, and a user‑friendly sidebar for effortless navigation."',
     image: img1,
-    github: 'https://github.com/anurudha07/ExpenX',
+    github: 'https://github.com/Pria-11/ExpenX',
     live: 'https://expenx-client.onrender.com'
   },
   {
-    title: 'BookShelf | Turning Pages into Next Possibility',
-    description: '"BookShelf is a full-stack, mobile-responsive MERN application for browsing and purchasing books online. It features secure JWT-based authentication with Password Reset via Email, Stripe and RazorPay-powered payments, dynamic book management, real-time cart functionality, Role-Based Access Control and an intuitive admin dashboard—delivering a seamless bookstore experience on any device."',
+    title: 'AmazeCart | All at One Place | E-commerce-project',
+    description: '"A Spring Boot–powered eCommerce platform featuring Hibernate auto–schema creation, clean service‑and‑DAO layering for reusable data access, dynamic product/image handling, security and IDE support (Eclipse/IntelliJ), with a fully refactored codebase—currently evolving with cart logic and endpoint refinements."',
     image: img2,
-    github: '',
+    github: 'https://github.com/Pria-11/E-commerce-project',
     live: ''
   },
   {
-    title: 'Kanban-Board-Application | Keep Update Stay Updated',
-    description: 'A minimal Kanban board application with Vue.js 3, Express, and MongoDB. Featureing responsive UI, smooth drag-and-drop task cards functionality, and ability to create, edit & delete tasks at ease with ability to create dynamic sections.',
+    title: 'Music-Recommendation-Platform | Keep Your Music on track',
+    description: 'Predict the likelihood that a user will enjoy a song. By analyzing the users past song history and the properties of the music, the system will generate a list of recommended tracks. The model uses the Spotify dataset which contains a variety of features such as acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, valence, and others',
     image: img3,
-    github: 'https://github.com/anurudha07/Kanban-Board-Application',
+    github: 'https://github.com/Pria-11/Music-Recommendation-Platform',
     live: ''
   },
   {
-    title: 'Multi-Disease Predictive Analytics Platform | A way to better lifestyle',
-    description: 'Advanced predictive system build using Python and Streamlit, harnessing supervised learning algorithms to forecast the likelihood of four major disseases- Heart, Diabetes, Breast Cancer, and Parkinson’s Disease.',
+    title: 'Customer Insights and Sales Analysis | Pandas | Matplotlib | Seaborn',
+    description: 'Performed data cleaning and EDA to uncover key customer segments and optimize inventory strategy, using demographic insights and sales patterns for data-driven decision-making.',
     image: img4,
-    github: 'https://github.com/anurudha07/Multi-Disease-Predictive-Analytics-Platform',
+    github: 'https://github.com/Pria-11/Customer-Insights-and-Sales-Analysis',
     live: ''
   },
-  {
-    title: 'Hand Gesture-Based Volume Control',
-    description: 'Implemented a cutting-edge Hand Gesture-Based Volume Control system utilizing computer vision leveraging OpenCv, MediaPipe, PyAutoGUI libraries to control and maintain volume control at your finger tips.',
-    image: img5,
-    github: 'https://github.com/anurudha07/Hand-Gesture-Based-Volume-Control/tree/main',
-    live: 'https://anurudha07.github.io/Hand-Gesture-Based-Volume-Control/'
-  },
+ 
   {
     title: 'Quantum Bank | Bank Management System',
-    description: 'Contributed to a group prject- Bank Management System project build using Spring Boot, incorporating user authentication and secure transaction processing & proper frontend development where i contributed in building the frontend.',
-    image: img6,
-    github: 'https://github.com/anurudha07/Bank-Management-System',
+    description: 'Contributed to a group prject- Bank Management System project build using Spring Boot, incorporating user authentication and secure transaction processing & developed proper backend and contribute in conmpletion of the project.',
+    image: img5,
+    github: 'https://github.com/Pria-11/Quantum-Bank-Bank-Management-System',
     live: ''
   },
   
