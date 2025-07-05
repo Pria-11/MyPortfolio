@@ -248,7 +248,7 @@ const Home = () => {
     };
   }, []);
 
-  const mailto = `mailto:anurudhs567@gmail.com?subject=Hiring You as Full-Stack Engineer&body=Hi Anurudha,%0A%0ALet's connect!`;
+  const mailto = `mailto:priyayadav06092002@gmail.com?subject=Hiring You as Full-Stack Engineer&body=Hi Priya,%0A%0ALet's connect!`;
 
   return (
     <Section>
@@ -261,7 +261,7 @@ const Home = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        <Title>Welcome, I’m Anurudha</Title>
+        <Title>Welcome, I’m Priya</Title>
         <Subtitle>Elite Full-Stack Developer</Subtitle>
         <Button href={mailto} whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }}>
           Hire Me
