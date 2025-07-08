@@ -17,7 +17,7 @@ const IconLink = styled(motion.a)`
 `;
 const icons = [
   { comp: FaGithub, url: 'https://github.com/Pria-11' },
-  { comp: FaLinkedin, url: 'https://www.linkedin.com/feed/' },
+  { comp: FaLinkedin, url: 'https://www.linkedin.com/in/priya-yadav-911a5a302/' },
 
 ];
 
