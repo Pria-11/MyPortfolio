@@ -90,11 +90,11 @@ const projectList = [
     live: 'https://expenx-client.onrender.com'
   },
   {
-    title: 'AmazeCart | All at One Place | E-commerce-project',
-    description: '"A Spring Boot–powered eCommerce platform featuring Hibernate auto–schema creation, clean service‑and‑DAO layering for reusable data access, dynamic product/image handling, security and IDE support (Eclipse/IntelliJ), with a fully refactored codebase—currently evolving with cart logic and endpoint refinements."',
+    title: 'BookShelf | Book E-commerce-project',
+    description: '"BookShelf is a full-stack, minimalistic MERN application for browsing and purchasing books online. It features secure JWT-based authentication, Paypal-powered payments, dynamic book management, real-time cart functionality, Role-Based Access Control and an intuitive admin dashboard—delivering a seamless bookstore experience on any device."',
     image: img2,
     github: 'https://github.com/Pria-11/E-commerce-project',
-    live: ''
+    live: 'https://portfolio-kxhf.onrender.com'
   },
   {
     title: 'Music-Recommendation-Platform | Keep Your Music on track',
