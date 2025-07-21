@@ -94,7 +94,7 @@ const projectList = [
     description: '"BookShelf is a full-stack, minimalistic MERN application for browsing and purchasing books online. It features secure JWT-based authentication, Paypal-powered payments, dynamic book management, real-time cart functionality, Role-Based Access Control and an intuitive admin dashboard—delivering a seamless bookstore experience on any device."',
     image: img2,
     github: 'https://github.com/Pria-11/E-commerce-project',
-    live: 'https://portfolio-kxhf.onrender.com'
+    live: 'https://bookshelf-server-k188.onrender.com'
   },
   {
     title: 'Music-Recommendation-Platform | Keep Your Music on track',
