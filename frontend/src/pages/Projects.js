@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
+import img0 from '../images/img0.png';
 import img1 from '../images/image1.jpg';
 import img2 from '../images/image2.jpg';
 import img3 from '../images/image3.jpg';
