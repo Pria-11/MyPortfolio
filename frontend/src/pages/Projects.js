@@ -82,6 +82,13 @@ const LinkButton = styled.a`
 `;
 
 const projectList = [
+    {
+    title: 'RE-DEFINE| | Futuristic Gaming Landing Page',
+    description: '"A fully responsive gaming-inspired landing site featuring immersive video sections, smooth scroll animations, glassmorphism design elements, and interactive UI effects. Built with modern frontend techniques, it delivers dynamic user interactions, advanced CSS animations, responsive layouts, and visually engaging experiences optimized across all devices."',
+    image: img0,
+    github: 'https://github.com/Pria-11/redefine',
+    live: 'https://pria-11.github.io/redefine/'
+  },
   {
     title: 'ExpenX | Your Expense Tracking Partner',
     description: '"A fully responsive finance dashboard with JWT‑powered authentication, real‑time summary cards for balance, income, and expenses, and complete CRUD functionality—complete with instant update alerts. It also offers interactive bar, pie, and line charts, a recent‑transactions panel, Excel data exports, and a user‑friendly sidebar for effortless navigation."',
@@ -111,13 +118,13 @@ const projectList = [
     live: ''
   },
  
-  {
-    title: 'Quantum Bank | Bank Management System',
-    description: 'Contributed to a group prject- Bank Management System project build using Spring Boot, incorporating user authentication and secure transaction processing & developed proper backend and contribute in conmpletion of the project.',
-    image: img5,
-    github: 'https://github.com/Pria-11/Quantum-Bank-Bank-Management-System',
-    live: ''
-  },
+  // {
+  //   title: 'Quantum Bank | Bank Management System',
+  //   description: 'Contributed to a group prject- Bank Management System project build using Spring Boot, incorporating user authentication and secure transaction processing & developed proper backend and contribute in conmpletion of the project.',
+  //   image: img5,
+  //   github: 'https://github.com/Pria-11/Quantum-Bank-Bank-Management-System',
+  //   live: ''
+  // },
   
 ];
 
